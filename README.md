@@ -69,5 +69,5 @@ Since this is an Excel-based project, contributions can be made by suggesting im
 If you have any questions, feel free to reach out:
 
 - **Email**: dsandakelums@gmail.com
-- **LinkedIn**: ([Dinusha Sandakelum](https://www.linkedin.com/in/dinusha-sandakelum-44b1aa2b6/))
-- **Portfolio**: ([Dinusha Sandakelum portfolio](https://dinushass.github.io/dinusha-portfolio.github.io/))
+- **LinkedIn**: [Dinusha Sandakelum](https://www.linkedin.com/in/dinusha-sandakelum-44b1aa2b6/)
+- **Portfolio**: [Dinusha Sandakelum portfolio](https://dinushass.github.io/dinusha-portfolio.github.io/)
